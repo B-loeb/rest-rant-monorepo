@@ -40,3 +40,26 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 | /places/new           | `places/NewPlaceForm.js`  | Form for creating a new place                                                   |
 | /places/:placeId      | `places/PlaceDetails.js`  | Details of a place, including it's comments, and a form to create a new comment |
 | /places/:placeId/edit | `places/EditPlaceForm.js` | Form for editing a place                                                        |
+
+
+### Changelog
+
+- Deployment changes
+- fixed authentication
+- admin portal
+- jwt authorization
+- jwt-authentication
+- login requests
+- login fetch/ authentication controller
+- signup pw hashed
+- passwordDigest column added
+- adding login form to starter code
+- added current user context
+- Reverted oops
+- added founded, seed data
+- added founded, seed data
+- in progress
+- fixed layout issue
+- updated ReadMe.md
+- added nested author support
+- bugfixes, added nested comment.author support
